@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Milky Kiwi</h1>
+<h1 align="center">Hi! I'm Milky Kiwi 🥝</h1>
 <h3 align="center">Software Developer and Content Creator ✨</h3>
 <img align ="right" alt="Coding" width="400" src="https://i.imgur.com/5nuk0wU.jpg">
 
