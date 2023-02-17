@@ -7,8 +7,6 @@
 
 Hi there! This is Milky Kiwi and I make coding easy and fun ✨
 
-▶︎ Currently learning **AI** and **Process Automation**
-
 ▶︎ My Portfolio [https://milky-kiwi-portfolio.fly.dev/](https://milky-kiwi-portfolio.fly.dev/)
 
 ▶︎ How to reach me **milkykiwidev@gmail.com**
