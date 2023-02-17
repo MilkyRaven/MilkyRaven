@@ -5,7 +5,7 @@
 
 
 Hi there! This is Milky Kiwi and I make coding easy and fun ✨
-
+<img align ="right" alt="Coding" width="100" src="https://i.imgur.com/QcNTkw1.gif">
 
 ▶︎ My Portfolio [https://milky-kiwi-portfolio.fly.dev/](https://milky-kiwi-portfolio.fly.dev/)
 
