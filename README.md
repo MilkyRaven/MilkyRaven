@@ -41,4 +41,4 @@ Hi there! This is Milky Kiwi and I make coding easy and fun ✨
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milkyraven&theme=swift&show_icons=true&locale=en&border_radius=10&bg_color=&icon_color=F1E199&text_color=625465&title_color=6AA497" alt="milkyraven" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milkyraven&theme=swift&show_icons=true&locale=en&border_radius=10&bg_color=&icon_color=FFC1CE&text_color=625465&title_color=6AA497" alt="milkyraven" /></p>
