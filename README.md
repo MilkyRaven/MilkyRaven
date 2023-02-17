@@ -6,7 +6,7 @@
 
 
 Hi there! This is Milky Kiwi and I make coding easy and fun ✨
-
+<p align="left"> <img src="https://komarev.com/ghpvc/&label=my%20portfolio&color=609289&style=for-the-badge" alt="milkyraven" /> </p>
 ▶︎ My Portfolio [https://milky-kiwi-portfolio.fly.dev/](https://milky-kiwi-portfolio.fly.dev/)
 
 ▶︎ How to reach me **milkykiwidev@gmail.com**
