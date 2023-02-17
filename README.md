@@ -1,4 +1,4 @@
-<img align ="center" alt="Coding" width="500" src="https://i.imgur.com/L0rl03e.gif">
+<img align ="right" alt="Coding" width="500" src="https://i.imgur.com/L0rl03e.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milkyraven&label=Profile%20views&color=0e75b6&style=flat" alt="milkyraven" /> </p>
 
