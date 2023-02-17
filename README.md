@@ -7,10 +7,10 @@
 
 Hi there! This is Milky Kiwi and I make coding easy and fun ✨
 
-▶︎ My Portfolio [https://milky-kiwi-portfolio.fly.dev/](https://milky-kiwi-portfolio.fly.dev/)
+✻ My Portfolio [https://milky-kiwi-portfolio.fly.dev/](https://milky-kiwi-portfolio.fly.dev/)
 
 
-▶︎ How to reach me **milkykiwidev@gmail.com**
+✻ How to reach me **milkykiwidev@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
