@@ -1,5 +1,6 @@
 <img align ="right" alt="Coding" width="500" src="https://i.imgur.com/L0rl03e.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=milkyraven&label=little%20visitors&color=609289&style=for-the-badge" alt="milkyraven" /> </p>
+<span><img alt="Coding" width="60" src="https://i.imgur.com/QcNTkw1.gif"></span>
+<span align="left"> <img src="https://komarev.com/ghpvc/?username=milkyraven&label=little%20visitors&color=609289&style=for-the-badge" alt="milkyraven" /> </span>
 
 <p align="left"> <a href="https://twitter.com/milky_kiwi_dev" target="blank"><img src="https://img.shields.io/twitter/follow/milky_kiwi_dev?logo=twitter&color=609289&style=for-the-badge" alt="milky_kiwi_dev" /></a> </p>
 
@@ -38,5 +39,4 @@ Hi there! This is Milky Kiwi and I make coding easy and fun ✨
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
 </p>
-<img align ="left" alt="Coding" width="60" src="https://i.imgur.com/QcNTkw1.gif">
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=milkyraven&theme=swift&show_icons=true&locale=en&border_radius=10&bg_color=&icon_color=FFC1CE&text_color=625465&title_color=6AA497" alt="milkyraven" /></p>
