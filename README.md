@@ -4,7 +4,10 @@
 
 <p align="left"> <a href="https://twitter.com/milky_kiwi_dev" target="blank"><img src="https://img.shields.io/twitter/follow/milky_kiwi_dev?logo=twitter&color=609289&style=for-the-badge" alt="milky_kiwi_dev" /></a> </p>
 
-<p> ▶︎ Currently learning **AI** and **Process Automation** </p>
+
+Hi there! This is Milky Kiwi and I make coding easy and fun ✨
+
+▶︎ Currently learning **AI** and **Process Automation**
 
 ▶︎ My Portfolio [https://milky-kiwi-portfolio.fly.dev/](https://milky-kiwi-portfolio.fly.dev/)
 
