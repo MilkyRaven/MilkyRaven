@@ -1,6 +1,6 @@
 <img align ="right" alt="Coding" width="500" src="https://i.imgur.com/L0rl03e.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=milkyraven&label=little%20visitors%20✨&color=609289&style=for-the-badge" alt="milkyraven" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=milkyraven&label=little%20visitors&color=609289&style=for-the-badge" alt="milkyraven" /> </p>
 
 <p align="left"> <a href="https://twitter.com/milky_kiwi_dev" target="blank"><img src="https://img.shields.io/twitter/follow/milky_kiwi_dev?logo=twitter&style=for-the-badge" alt="milky_kiwi_dev" /></a> </p>
 
