@@ -1,5 +1,5 @@
 <span><img alt="Coding" width="50" src="https://i.imgur.com/ZHLj3Lg.gif"></span>
-<span align="left"> <img src="https://komarev.com/ghpvc/?username=milkyraven&label=little%20visitors&color=609289&style=for-the-badge" alt="milkyraven" /> </span>
+<span align="left"> <img src="https://komarev.com/ghpvc/?username=milkyraven&label=%20visitors&color=609289&style=for-the-badge" alt="milkyraven" /> </span>
 
 <p align="left"> <a href="https://twitter.com/milky_kiwi_dev" target="blank"><img src="https://img.shields.io/twitter/follow/milky_kiwi_dev?logo=twitter&color=609289&style=for-the-badge" alt="milky_kiwi_dev" /></a> </p>
 
